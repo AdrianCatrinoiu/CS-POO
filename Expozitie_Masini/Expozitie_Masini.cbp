@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Expozitie_Masini" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Expozitie_Masini" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Expozitie_Masini" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Expozitie.h" />
+		<Unit filename="include/Masina_Cabrio.h" />
+		<Unit filename="include/Masina_Coupe.h" />
+		<Unit filename="include/Masina_HotHatch.h" />
+		<Unit filename="include/Masina_SuperSport.h" />
+		<Unit filename="include/Masini.h" />
+		<Unit filename="include/my_exception.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Expozitie.cpp" />
+		<Unit filename="src/Masina_Cabrio.cpp" />
+		<Unit filename="src/Masina_Coupe.cpp" />
+		<Unit filename="src/Masina_HotHatch.cpp" />
+		<Unit filename="src/Masina_SuperSport.cpp" />
+		<Unit filename="src/Masini.cpp" />
+		<Unit filename="src/my_exception.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

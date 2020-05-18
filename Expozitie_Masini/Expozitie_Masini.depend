@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1589807781 source:c:\users\adrian\desktop\expozitie\expozitie_masini\main.cpp
+	<vector>
+	<iostream>
+	<Masini.h>
+	<Masina_Cabrio.h>
+	<Masina_Coupe.h>
+	<Masina_HotHatch.h>
+	<Masina_SuperSport.h>
+	<my_exception.h>
+	<Expozitie.h>
+
+1589803202 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\expozitie.cpp
+	"Expozitie.h"
+
+1589808584 c:\users\adrian\desktop\expozitie\expozitie_masini\include\expozitie.h
+	<vector>
+	<iostream>
+	<Masini.h>
+	<Masina_Cabrio.h>
+	<Masina_Coupe.h>
+	<Masina_HotHatch.h>
+	<Masina_SuperSport.h>
+	"my_exception.h"
+
+1589807166 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\masina_cabrio.cpp
+	"Masina_Cabrio.h"
+
+1589807278 c:\users\adrian\desktop\expozitie\expozitie_masini\include\masina_cabrio.h
+	<Masini.h>
+	<iostream>
+
+1589804490 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\masina_hothatch.cpp
+	"Masina_HotHatch.h"
+
+1589807341 c:\users\adrian\desktop\expozitie\expozitie_masini\include\masina_hothatch.h
+	<Masini.h>
+	<iostream>
+
+1589804571 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\masina_supersport.cpp
+	"Masina_SuperSport.h"
+
+1589807166 c:\users\adrian\desktop\expozitie\expozitie_masini\include\masina_supersport.h
+	<Masini.h>
+
+1589807213 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\masina_coupe.cpp
+	"Masina_Coupe.h"
+
+1589807311 c:\users\adrian\desktop\expozitie\expozitie_masini\include\masina_coupe.h
+	<Masini.h>
+	<iostream>
+
+1589802234 c:\users\adrian\desktop\expozitie\expozitie_masini\include\masini.h
+	<iostream>
+
+1589802234 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\masini.cpp
+	"Masini.h"
+
+1589804744 source:c:\users\adrian\desktop\expozitie\expozitie_masini\src\my_exception.cpp
+	"my_exception.h"
+
+1589806869 c:\users\adrian\desktop\expozitie\expozitie_masini\include\my_exception.h
+	<iostream>
+	<exception>
+	<string>
+	<bitset>
+
